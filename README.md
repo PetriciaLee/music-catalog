@@ -17,7 +17,6 @@ A collection of modern, responsive React components with stunning animations and
 - **Navigation Components**
   - Responsive Header
   - Animated Menu Items
-  - Smooth Transitions
   - Mobile-friendly Navigation
 
 - **Buttons & Controls**
@@ -27,30 +26,26 @@ A collection of modern, responsive React components with stunning animations and
   - Loading States
 
 - **Layout Components**
-  - Hero Sections
   - Feature Grids
   - Responsive Containers
   - Flex & Grid Layouts
 
 ### Technical Features
-- 🔧 Built with TypeScript for type safety
-- 📱 Mobile-first responsive design
-- 🎯 Zero-dependency core components
+- 🔧 Built with HTML, CSS and PHP
+- 🛠️ MySQL for database
+- 📱 Mobile responsive design
+  <!--- 🎯 Zero-dependency core components --!>
 - 🚀 Optimized for performance
 - 📦 Tree-shakeable exports
-- 🎨 Customizable with Tailwind CSS
 - 🔄 Hot Module Replacement (HMR)
-- 📝 Comprehensive documentation
-
+- 
 ### Developer Experience
-- 🛠️ Easy integration with existing projects
+- 🛠️ Easy integration with SQL
 - 📚 Well-documented components
-- 🎯 TypeScript support for better DX
-- 🔄 Fast refresh in development
+- 🎯 CSS support for better UX
 - 📱 Responsive testing utilities
-- 🎨 Customizable theming system
 - 🔧 Simple configuration
-- 📦 Modern build system with Vite
+- 📦 Modern build system with PHP
 
 ## 🛠️ Built With
 
@@ -100,30 +95,13 @@ ReactUI/
 │   ├── components/     # Reusable components
 │   ├── pages/         # Page components
 │   ├── styles/        # Global styles
-│   └── App.tsx        # Root component
+│   └── index.php        # Root component
 ├── public/            # Static assets
-└── package.json       # Project dependencies
+└── stil.css       # Project dependencies
 ```
 
 ## 🤝 Contributing
 
-We welcome contributions to ReactUI! Here's how you can help:
-
-1. Fork the repository
-2. Create your feature branch:
-```bash
-git checkout -b feature/AmazingFeature
-```
-
-3. Commit your changes:
-```bash
-git commit -m 'Add some AmazingFeature'
-```
-
-4. Push to the branch:
-```bash
-git push origin feature/AmazingFeature
-```
 
 5. Open a Pull Request
 
@@ -135,16 +113,15 @@ git push origin feature/AmazingFeature
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is PRIVATE and not for public-use.
 
 ## 🙏 Acknowledgments
 
-- Thanks to all contributors who have helped shape ReactUI
-- Special thanks to the React and Tailwind CSS communities
+- Thanks to my professors at FOI for teaching me how to use PHP 
 
 ## 📞 Contact
 
 For any questions or suggestions, please open an issue or reach out to me on GitHub.
 
 ---
-Made with ❤️ by the Zeej
+Made with ❤️ by Petra J.
