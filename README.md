@@ -1,2 +1,3 @@
-# music-catalog
-School project
+# Music Catalog
+ - School project, will upload soon
+ - + demo too..
