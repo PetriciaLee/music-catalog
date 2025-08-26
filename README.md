@@ -1,6 +1,26 @@
 # Music Catalog - School Project
 
-<!--  ![ReactUI Demo](demo-photo.png)
+<!-- 
+                                                                      
+ ▄▄▄▄▄           ▄             ▀             ▀             ▄          
+ █   ▀█  ▄▄▄   ▄▄█▄▄   ▄ ▄▄  ▄▄▄     ▄▄▄   ▄▄▄     ▄▄▄     █     ▄▄▄  
+ █▄▄▄█▀ █▀  █    █     █▀  ▀   █    █▀  ▀    █    ▀   █         █   ▀ 
+ █      █▀▀▀▀    █     █       █    █        █    ▄▀▀▀█          ▀▀▀▄ 
+ █      ▀█▄▄▀    ▀▄▄   █     ▄▄█▄▄  ▀█▄▄▀  ▄▄█▄▄  ▀▄▄▀█         ▀▄▄▄▀ 
+                                                                      
+                                                                      
+                                                                      
+ █                                                                    
+ █ ▄▄    ▄▄▄   ▄▄▄▄▄   ▄▄▄   ▄▄▄▄    ▄▄▄    ▄▄▄▄   ▄▄▄                
+ █▀  █  █▀ ▀█  █ █ █  █▀  █  █▀ ▀█  ▀   █  █▀ ▀█  █▀  █               
+ █   █  █   █  █ █ █  █▀▀▀▀  █   █  ▄▀▀▀█  █   █  █▀▀▀▀               
+ █   █  ▀█▄█▀  █ █ █  ▀█▄▄▀  ██▄█▀  ▀▄▄▀█  ▀█▄▀█  ▀█▄▄▀               
+                             █              ▄  █                      
+                             ▀               ▀▀                       
+
+welcome to my source code, pls excuse the mess ¯\_(ツ)_/¯  -->
+
+![ReactUI Demo](demo-photo.png)
 
 A collection of modern, responsive React components with stunning animations and effects. View the live demo at [react-ui-awesome.netlify.app](https://react-ui-awesome.netlify.app/)
 --> 
