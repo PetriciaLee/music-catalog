@@ -1,5 +1,3 @@
-# Music Catalog - School Project
-
 <!-- 
                                                                       
  ▄▄▄▄▄           ▄             ▀             ▀             ▄          
@@ -23,6 +21,7 @@ welcome to my source code, pls excuse the mess ¯\_(ツ)_/¯
 -->
 
 # Projektni zadatak: Glazbeni katalog
+### [Project assignment: Music catalog]
 
 > Sustav za kupnju pjesama od strane medijskih kuća s različitim korisničkim ulogama.
 
