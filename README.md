@@ -32,6 +32,7 @@ welcome to my source code, pls excuse the mess ¯\_(ツ)_/¯
 * **Moderator:** Zahtijevanje kupnje pjesama za svoju medijsku kuću, pregled statusa zahtjeva i istaknuti prikaz nekupljenih pjesama.
 * **Administrator:** Upravljanje korisnicima, medijskim kućama i praćenje statistike sviđanja.
 
+ <img src="pocetna.jpg" alt="banner" width="800"/>
 ---
 
 ## 🛠️ Tehničke specifikacije
@@ -54,5 +55,6 @@ U zaglavlju svake stranice projekta nalazi se poveznica na stranicu `o_autoru.ht
 
 * **Ime i prezime:** * **Broj indeksa:** * **E-mail:** * **Centar:** * **Akademska godina:** * **Fotografija:** (JPG, 300x400px)
 
+ <img src="zaglavlje.jpg" alt="banner" width="800"/>
 ---
 Made with ❤️ by Petra J.
