@@ -24,6 +24,8 @@ welcome to my source code, pls excuse the mess ¯\_(ツ)_/¯
 
 > Sustav za kupnju pjesama od strane medijskih kuća s različitim korisničkim ulogama.
 
+<!-- stavitineka slova u kurziv i ukrasiti ih-->
+
 ## 📝 Pregled funkcionalnosti
 
 * **Uloge korisnika:** Administrator, Moderator, Registrirani korisnik, Anonimni korisnik
