@@ -33,8 +33,8 @@ welcome to my source code, pls excuse the mess ¯\_(ツ)_/¯
 * **Registrirani korisnik:** Kreiranje i ažuriranje vlastitih pjesama, upravljanje zahtjevima za kupnju, filtriranje pjesama i sviđanje pjesama.
 * **Moderator:** Zahtijevanje kupnje pjesama za svoju medijsku kuću, pregled statusa zahtjeva i istaknuti prikaz nekupljenih pjesama.
 * **Administrator:** Upravljanje korisnicima, medijskim kućama i praćenje statistike sviđanja.
-
- <img src="pocetna.jpg" alt="banner" width="800"/> DODATI SLIKU POČETNE
+<!--
+ <img src="pocetna.jpg" alt="banner" width="800"/> DODATI SLIKU POČETNE -->
 ---
 
 ## 🛠️ Tehničke specifikacije
