@@ -20,7 +20,7 @@ welcome to my source code, pls excuse the mess ¯\_(ツ)_/¯
 
 -->
 
-# Projektni zadatak: Glazbeni katalog
+# Projektni zadatak: Glazbeni katalog EDIIIIITTTT (DNO)
 
 > Sustav za kupnju pjesama od strane medijskih kuća s različitim korisničkim ulogama.
 
