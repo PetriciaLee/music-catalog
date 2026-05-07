@@ -63,7 +63,7 @@ U zaglavlju svake stranice projekta nalazi se poveznica na stranicu `o_autoru.ht
 
 ## 👨‍💻 UX/UI
 
-Nisu korišteni ARIA atributi ili bolji UX/UI dizajn, tako da ima mjesta za poboljšanja i unaprjeđivanja. 
+Nisu korišteni ARIA atributi ili drugi elementi, tako da ima mjesta za poboljšanja i unaprjeđivanja. Isto vrijedi i za UX/UI dizajn/izgled cijele web aplikacije. 
 ---
 
 Made with ❤️ by Petra J.
