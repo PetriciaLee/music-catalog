@@ -62,6 +62,7 @@ U zaglavlju svake stranice projekta nalazi se poveznica na stranicu `o_autoru.ht
 ## 👨‍💻 UX/UI
 
 **Područja za poboljšanje (UX/UI & Pristupačnost)** 
+
 Trenutna verzija ne koristi ARIA atribute ni napredne elemente pristupačnosti, što ostavlja prostor za daljnju optimizaciju. Također, UX/UI dizajn web aplikacije otvoren je za buduća vizualna i funkcionalna unaprjeđenja.
 
 
