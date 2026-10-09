@@ -57,13 +57,11 @@ U zaglavlju svake stranice projekta nalazi se poveznica na stranicu `o_autoru.ht
 
 * **Ime i prezime:** * **Broj indeksa:** * **E-mail:** * **Centar:** * **Akademska godina:** * **Fotografija:** (JPG, 300x400px)
 
- <img src="zaglavlje.jpg" alt="banner" width="800"/> DODATI SLIKU NEKE POZADINE, ili video tutorijal?
-
  ---
 
 ## 👨‍💻 UX/UI
 
-* ** Područja za poboljšanje (UX/UI & Pristupačnost) ** *
+** Područja za poboljšanje (UX/UI & Pristupačnost) ** 
 Trenutna verzija ne koristi ARIA atribute ni napredne elemente pristupačnosti, što ostavlja prostor za daljnju optimizaciju. Također, UX/UI dizajn web aplikacije otvoren je za buduća vizualna i funkcionalna unaprjeđenja.
 
 
