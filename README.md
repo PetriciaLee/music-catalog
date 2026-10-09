@@ -20,7 +20,7 @@ welcome to my source code, pls excuse the mess ¯\_(ツ)_/¯
 
 -->
 
-# Projektni zadatak: Glazbeni katalog EDIIIIITTTT (DNO)
+# Projektni zadatak: Glazbeni katalog 
 
 > Sustav za kupnju pjesama od strane medijskih kuća s različitim korisničkim ulogama.
 
@@ -63,7 +63,7 @@ U zaglavlju svake stranice projekta nalazi se poveznica na stranicu `o_autoru.ht
 
 ## 👨‍💻 UX/UI
 
-Nisu korišteni ARIA atributi ili drugi elementi, tako da ima mjesta za poboljšanja i unaprjeđivanja. Isto vrijedi i za UX/UI dizajn/izgled cijele web aplikacije. 
----
+Područja za poboljšanje (UX/UI & Pristupačnost)
+Trenutna verzija ne koristi ARIA atribute ni napredne elemente pristupačnosti, što ostavlja prostor za daljnju optimizaciju. Također, UX/UI dizajn web aplikacije otvoren je za buduća vizualna i funkcionalna unaprjeđenja.---
 
 Made with ❤️ by Petra J.
